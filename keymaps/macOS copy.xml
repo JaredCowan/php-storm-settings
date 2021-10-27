@@ -2,4 +2,8 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="UsageGrouping.FileStructure" />
 </keymap>
