@@ -9,6 +9,10 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="NavBar-selectHome">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
