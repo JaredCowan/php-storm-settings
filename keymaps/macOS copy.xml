@@ -21,4 +21,7 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="UsageGrouping.FileStructure" />
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
