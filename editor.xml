@@ -7,8 +7,12 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern icon="important" pattern="\bcards-todo\b*" />
+    <pattern icon="question" pattern="\bcards-migration\b*" />
     <filter name="cards-todo">
       <pattern index="2" />
+    </filter>
+    <filter name="Cards Migration">
+      <pattern index="3" />
     </filter>
   </component>
   <component name="XmlEditorOptions">
