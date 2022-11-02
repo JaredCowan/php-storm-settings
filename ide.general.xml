@@ -11,4 +11,11 @@
     <entry key="editor.focus.mode.color.light" value="848bbd" />
     <entry key="editor.focus.mode.color.dark" value="848bbd" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
