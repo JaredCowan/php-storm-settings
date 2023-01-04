@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="print@userDefined" key=".print" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="&lt;?= $EXPR ?&gt;" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>

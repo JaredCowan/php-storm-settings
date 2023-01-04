@@ -3,6 +3,9 @@
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="PHP.parameter.hints.old" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
