@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/projects/hopelink/.php_cs.cache" value="JSON" />
+    <file url="file://$USER_HOME$/projects/hopelink/scripts/composer/rwest/stubs/Template.txt" value="PHP" />
   </component>
 </application>
