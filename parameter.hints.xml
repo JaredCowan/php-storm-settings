@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\get_field(selector,post_id,format_value)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
