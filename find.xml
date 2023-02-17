@@ -13,8 +13,8 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
   </component>
 </application>
